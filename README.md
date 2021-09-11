@@ -4,7 +4,6 @@
 <hr height="1px"><br>🙋🏽‍♂️About Me<hr>
  I am a Full Stack Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Computer Science and Engineering Programmer at the National Institute of Technology ( NITD ). I explore all fields of Computer Science, be it Web Development, Android or IOS development, Fun events like Capture the Flag, Machine Learning, and the sport of Competitive Programming. My hobby is Photography as I enjoy capturing the moments and relishing those memories in the future; checkout my Insta Page for my work. I don't believe in writing just the code that works instead I try my best to write most proficient code in terms of both time and memory.<br>
  <ul>
- <li>🔭 I’m currently working on <a href="http://codeassistor.epizy.com">Code-Snippet Website</a></li>
  <li>🌱 I’m currently learning React</li>
  <li>📫 How to reach me <a href="mailto:vishalsingh2508720@gmail.com">vishalsingh2508720@gmail.com</a></li>
  <li>💬 Ask me about HTML, CSS, JS, PHP, C</li>
@@ -13,9 +12,9 @@
   <br>
  ⚡ Recent Activity
  <ol>
+ <li>🗣Just Created a Software for Extracting image from a pdf.<li>
  <li>🔭See the progress of work of <a href="http://codeassistor.epizy.com">Code-Snippet Website</a> Here</li>
 <li>🗣 Started new project repo <a href="https://github.com/voltsyjr/Code-Snippet-Website">Code-Snippet Website</a></li>
-<li>🗣 Commited on news-website</li>
 <!-- <li>🎉 Merged PR #18 in COPS-IITBHU/csoc-2021-algorithms</li>
 <li>❌ Closed PR #3 in COPS-IITBHU/csoc-2021-algorithms</li>
 <li>🗣 Commented on #3 in COPS-IITBHU/csoc-2021-algorithms</li> -->
